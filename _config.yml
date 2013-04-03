@@ -1,1 +1,3 @@
 baseurl: /qinyan.github.com
+assets_server: http://amychan116.github.com/assets
+paginate: 5 # the number of post per page
